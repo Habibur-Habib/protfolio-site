@@ -79,20 +79,23 @@ main{
     max-width: 1140px;
     margin: 0 auto;
 }
+section{
+    margin-top: 130px;
+
+}
 /* about sction style */
 .about{
-    text-align: center;
-    margin-top: 130px;
     background: #FFF8F3;
     border-radius: 10px;
     padding: 130px 150px;
+    text-align: center;
 
 }
 .section-title{
     text-align: center;
     font-weight: 700px;
     font-size: 35px;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 
 }
 .section-discription{
@@ -117,10 +120,6 @@ main{
 }
 
 /* what i do style */
-.what-i-do{
-    margin-top: 130px;
-
-}
 .skills-container{
     display: flex;
     gap: 24px;
@@ -140,3 +139,5 @@ main{
 .skill-discription{
     color: #757575;
 }
+
+/* Resume Style */
